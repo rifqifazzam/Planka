@@ -144,7 +144,7 @@ Pada page tersebut, user dapat mengubah beberapa hal terkait dengan akunnya, sep
 
 <img src="screenshots\planka16.png">
 
-Dibandingkan dengan Trello, account details yang ada pada Planka cukup minim. 
+Dibandingkan dengan Trello, account details yang ada pada Planka cukup minim. User dapat menambahkan detail-detail tambahan seperti organisasi dari user, dan menggantikan detail dari username, email, dan password dari aku usernya. 
 
 <img src="screenshots\planka17.png">
 
