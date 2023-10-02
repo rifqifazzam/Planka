@@ -154,17 +154,17 @@ Pada suatu board, page akan menampilkan list-list yang telah dibuat oleh user. P
 <img src="screenshots\planka18.png">
 
 Pada card tersebut, ada beberapa fitur yang dapat digunakan oleh user:
--User dapat memilih untuk mendapatkan notifikasi jika ada aksi yang dilakukan kepada card tersebut
--User dapat menambahkan deskripsi pada card tersebut
--User dapat menambahkan comment pada card tersebut untuk menunjukkan progress dari setiap user terlibat pada card tersebut
--User dapat menambahkan member lain pada card tersebut
--User dapat menambahkan checklist pada card tersebut, dan checklist tersebut akan tampil pada card tersebut
--User dapat menambahkan deadline pada card tersebut
--User dapat menambahkan attachments pada card tersebut, seperti foto, dokumen, link, dll.
+- User dapat memilih untuk mendapatkan notifikasi jika ada aksi yang dilakukan kepada card tersebut
+- User dapat menambahkan deskripsi pada card tersebut
+- User dapat menambahkan comment pada card tersebut untuk menunjukkan progress dari setiap user terlibat pada card tersebut
+- User dapat menambahkan member lain pada card tersebut
+- User dapat menambahkan checklist pada card tersebut, dan checklist tersebut akan tampil pada card tersebut
+- User dapat menambahkan deadline pada card tersebut
+- User dapat menambahkan attachments pada card tersebut, seperti foto, dokumen, link, dll.
 
 Ada beberapa fitur yang hanya dimiliki oleh Trello, seperti:
--Automation: user dapat membuat card tersebut untuk mengeluarkan suatu output/melakukan suatu aksi dengan input atau ketentuan tertentu. 
--Power-ups: user dapat menambahkan suatu power-up kepada suatu card untuk menambahkan suatu fungsionalitas tertentu yang tidak ada pada Trello
+- Automation: user dapat membuat card tersebut untuk mengeluarkan suatu output/melakukan suatu aksi dengan input atau ketentuan tertentu. 
+- Power-ups: user dapat menambahkan suatu power-up kepada suatu card untuk menambahkan suatu fungsionalitas tertentu yang tidak ada pada Trello
 
 <img src="screenshots\planka19.png">
 
@@ -172,6 +172,7 @@ Pada suatu board di Planka, page akan menampilkan list-list yang telah dibuat ol
 
 
 <img src="screenshots\planka20.png">
+
 Pada tampilan card di Planka, ada beberapa fitur yang dapat digunakan oleh user:
 - User dapat memilih untuk mendapatkan notifikasi jika ada aksi yang dilakukan kepada card tersebut
 - User dapat menambahkan deskripsi pada card tersebut
@@ -179,8 +180,7 @@ Pada tampilan card di Planka, ada beberapa fitur yang dapat digunakan oleh user:
 - User dapat menambahkan member lain pada card tersebut
 - User dapat menambahkan label pada card, agar user dapat mengklasifikasikannya
 - User dapat menambahkan deadline atau due date pada card tersebut
-- User dapat menambahkan attachments pada card tersebut, seperti foto, dokumen, link, dll.
-
+- User dapat menambahkan attachments pada card tersebut, seperti foto, dokumen, link, dll
 
 # Referensi
 [`^ kembali ke atas ^`](#)
