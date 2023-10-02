@@ -113,8 +113,8 @@ Cara pemakaian **Planka** ini sangat mudah, karena aplikasi ini telah menyediaka
 |Aplikasi web ini mudah digunakan, pengguna cukup login saja dengan email/username.   | Tidak ada fitur sign-up sehingga jika ingin login harus meminta dibuatkan akun atau dapat menggunakan akun guest jika disediakan.|
 |Dapat digunakan secara gratis   |Keterbatasan fitur|
 |Desain yang sederhana. UI yang minimalist membolehkan user untuk navigasi secara intuitif | Desainnya terkesan polos dan kurang menarik |
-|Tidak mempunyai pemilihan template yang berlebihan. |Kurang responsive pada device seperti smartphone|
-|Tidak ada batasan untuk membuat board, web app ini tidak membutuhkan pembayaran untuk menikmati semua fiturnya |Variety of templates. User dapat memilih sesuai dengan keperluannya|
+|Tidak mempunyai pemilihan template yang berlebihan. |Kustomisasi design template terbatas|
+|Tidak ada batasan untuk membuat board, web app ini tidak membutuhkan pembayaran untuk menikmati semua fiturnya |Kurang responsive pada device seperti smartphone|
 
 
 
@@ -154,7 +154,7 @@ Pada suatu board, page akan menampilkan list-list yang telah dibuat oleh user. P
 <img src="screenshots\planka18.png">
 
 Pada card tersebut, ada beberapa fitur yang dapat digunakan oleh user:
-User dapat memilih untuk mendapatkan notifikasi jika ada aksi yang dilakukan kepada card tersebut
+-User dapat memilih untuk mendapatkan notifikasi jika ada aksi yang dilakukan kepada card tersebut
 -User dapat menambahkan deskripsi pada card tersebut
 -User dapat menambahkan comment pada card tersebut untuk menunjukkan progress dari setiap user terlibat pada card tersebut
 -User dapat menambahkan member lain pada card tersebut
