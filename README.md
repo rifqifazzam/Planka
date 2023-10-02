@@ -148,7 +148,7 @@ Dibandingkan dengan Trello, account details yang ada pada Planka cukup minim.
 
 <img src="screenshots\planka17.png">
 
-Pada suatu board, page akan menampilkan list-list yang telah dibuat oleh user. Pada suatu list, user dapat menambahkan suatu card. 
+Pada suatu board, page akan menampilkan list-list yang telah dibuat oleh user. Pada suatu list, user dapat menambahkan suatu card. Secara sekilas, user dapat melihat deadline yang telah di-set untuk card tersebut, dan saat dipencet, user dapat melihat deskripsi yang lebih jelas mengenai card tersebut
 
 
 <img src="screenshots\planka18.png">
