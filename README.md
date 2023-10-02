@@ -14,7 +14,7 @@
 # Instalasi
 [`^ kembali ke atas ^`](#)
 
-**Instalasi Dengan Docker :**
+**Instalasi dengan Docker :**
 
 
 Login ke ssh terlebih dahulu:
@@ -25,7 +25,6 @@ Setelah itu buat folder terlebih dahulu
 ```bash
 mkdir planka
 ```
-
 Masuk ke folder planka
 ```bash
 cd planka
@@ -185,5 +184,8 @@ Pada tampilan card di Planka, ada beberapa fitur yang dapat digunakan oleh user:
 # Referensi
 [`^ kembali ke atas ^`](#)
 
-- https://github.com/plankanban/planka
-- https://docs.planka.cloud/docs/intro
+- [About Planka](https://github.com/plankanban/planka) - Plankanban
+- [How to create Droplets(digital ocean VM's)](https://docs.digitalocean.com/products/droplets/how-to/create/) - Digital Ocean
+- [How to log into a VPS with ssh on Windows](https://www.digitalocean.com/community/tutorials/how-to-log-into-a-vps-with-putty-windows-users) - Digital Ocean
+- [Installing planka with Docker](https://docs.planka.cloud/docs/installl-planka/Docker%20Compose/) - Plankanban
+- [What is trello](https://trello.com/tour)- Trello
