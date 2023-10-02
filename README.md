@@ -161,6 +161,7 @@ Pada card tersebut, ada beberapa fitur yang dapat digunakan oleh user:
 -User dapat menambahkan checklist pada card tersebut, dan checklist tersebut akan tampil pada card tersebut
 -User dapat menambahkan deadline pada card tersebut
 -User dapat menambahkan attachments pada card tersebut, seperti foto, dokumen, link, dll.
+
 Ada beberapa fitur yang hanya dimiliki oleh Trello, seperti:
 -Automation: user dapat membuat card tersebut untuk mengeluarkan suatu output/melakukan suatu aksi dengan input atau ketentuan tertentu. 
 -Power-ups: user dapat menambahkan suatu power-up kepada suatu card untuk menambahkan suatu fungsionalitas tertentu yang tidak ada pada Trello
