@@ -41,9 +41,12 @@ Sesuaikan portnya dengan port yang anda buka di vps, buka file docker compose:
 nano docker-compose.yml
 ```
 Port yang kami gunakan adalah port 80, edit di  bagian:
-![home](screenshots\port3000.png)
+
+<img src="screenshots\port3000.png">
+
 menjadi: 
-![home](screenshots\port8000.png)
+
+<img src="screenshots\port8000.png">
 
 Jalankan dockernya, program akan berjalan di port 80 ip address anda:
 
@@ -57,45 +60,46 @@ sudo docker-compose up
 Cara pemakaian **Planka** ini sangat mudah, karena aplikasi ini telah menyediakan *interface* yang mudah dimengerti. Berikut untuk lebih jelasnya :
 
 1. Melakukan login sebagai Admin pada halaman website
- ![login](screenshots\planka1.png)
+<img src="screenshots\planka1.png">
+ 
 
 2. Setelah melakukan login, pengguna akan dialihkan ke halaman utama yang berisi project-project yang telah dibuat sebelumnya
-![home](screenshots\planka2.png)
+<img src="screenshots\planka2.png">
 
 3. Menu **Create Project** digunakan untuk menambah project baru sesuai dengan nama project yang dimasukkan pengguna
-![home](screenshots\planka3.png)
+<img src="screenshots\planka3.png">
 
 4. Pengguna dapat menekan project untuk melihat detail dari project. Sebuah Project berisi list card yang dibuat oleh pengguna. Ini adalah contoh project kelompok yang telah dibuat sebelumnya. Sebuah project terdiri dari beberapa Board yang terdiri dari sejumlah List. Sebuah List memiliki sejumlah Card yang berisi informasi tugas dari pengguna. 
-![home](screenshots\planka4.png)
+<img src="screenshots\planka4.png">
 
 5. Menu **Add another list** menambahkan sebuah list baru ke dalam suatu board. Di sini pengguna akan menambahkan list baru dengan nama “Done”. Urutan List dalam Board dapat diubah dengan cara drag and drop.
-![home](screenshots\planka5.png)
+<img src="screenshots\planka5.png">
 
 6. Menu **Add another card** menambahkan sebuah card baru ke dalam suatu list. Di sini pengguna menambahkan card baru ke dalam list “To-Do’s”
-![home](screenshots\planka6.png)
-![home](screenshots\planka6_1.png)
+<img src="screenshots\planka6.png">
+<img src="screenshots\planka6_1.png">
 
 7. Untuk memberi informasi tambahan pada Card yang telah dibuat, pengguna dapat menekan card untuk melakukan edit. Secara general, pengguna dapat menambahkan deskripsi card, deskripsi tugas, dan mengomentari actions. Dalam submenu Add to card pengguna dapat mengatur detail card seperti menambahkan member ke dalam card, memberikan label, menambahkan due date, mengatur stopwatch, dan melampirkan file dari perangkat pengguna. Selain itu, terdapat submenu Actions yang berisi aksi subscribe, memindahkan card, dan menghapus card.
-![home](screenshots\planka7.png)
-![home](screenshots\planka7_1.png)
+<img src="screenshots\planka7.png">
+<img src="screenshots\planka7_1.png">
 
 8. Selain dengan cara di atas, pengguna dapat melakukan edit pada card dengan menekan icon edit yang terdapat pada pojok kanan atas card.
-![home](screenshots\planka8.png)
+<img src="screenshots\planka8.png">
 
 9. Pengguna juga dapat memindahkan Card dari suatu List ke List lain dengan drag and drop. Di sini pengguna memindahkan 2 card yang terdapat di list “Projek” ke list lain
-![home](screenshots\planka9.png)
+<img src="screenshots\planka9.png">
 
 10. Pengguna dapat menambahkan Board baru dengan menekan tanda + yang terletak pada Board yang sudah ada
-![home](screenshots\planka10.png)
+<img src="screenshots\planka10.png">
 
 11. Selain itu pada pojok kanan atas website terdapat fitur tambahan yaitu melakukan manajemen user, mengecek notifikasi, mengedit informasi akun, dan log out.
-![home](screenshots\planka11_1.png)
+<img src="screenshots\planka11_1.png">
 **Manajemen User**
-![home](screenshots\planka11_2.png)
+<img src="screenshots\planka11_2.png">
 **Notifikasi**
-![home](screenshots\planka11_3.png)
+<img src="screenshots\planka11_3.png">
 **Edit Informasi Akun**
-![home](screenshots\planka11_4.png)
+<img src="screenshots\planka11_4.png">
 
 # Pembahasan
 [`^ kembali ke atas ^`](#)
@@ -117,7 +121,7 @@ Cara pemakaian **Planka** ini sangat mudah, karena aplikasi ini telah menyediaka
 
 **Aplikasi web ini mengambil inspirasi dari Trello, berikut adalah perbandingannya:**
 
-![home](screenshots\planka12.png)
+<img src="screenshots\planka12.png">
 
 Pada homepage trello, terdapat banyak fitur yang dapat dipakai sesuai keinginan user. 
 - Templates: user dapat menyesuaikan kanban board dengan kebutuhannya atau skala projectnya
@@ -126,29 +130,29 @@ Pada homepage trello, terdapat banyak fitur yang dapat dipakai sesuai keinginan 
 - Search bar: user dapat mencari suatu board secara spesifik. 
 - Settings: User dapat mengubah preferensi dari account settings, email notifications, accessibility, dll. 
 
-![home](screenshots\planka13.png)
+<img src="screenshots\planka13.png">
 
 Pada Planka, dapat dilihat bahwa UI dari website tersebut lebih minimalist. Fitur-fitur seperti navbar, search bar, dan templates tidak ada. Project yang telah di-assign oleh admin kepada suatu user akan tampil pada homepage Planka. Pada navbar Planka, ada notification icon yang akan memberikan user notifikasi atas interaksi yang terjadi pada board suatu user, seperti penyelesaian suatu task, assignment kepada suatu task baru, dll. User dapat mengubah akun details dengan memencet nama user tersendiri pada pojok kanan atas. 
 
 
-![home](screenshots\planka14.png)
+<img src="screenshots\planka14.png">
 
 Untuk mengubah account details, user akan diarahkan ulang kepada Atlassian account.
 
-![home](screenshots\planka15.png)
+<img src="screenshots\planka15.png">
 
 Pada page tersebut, user dapat mengubah beberapa hal terkait dengan akunnya, seperti profile details, email, security, account preferences, dll. 
 
-![home](screenshots\planka16.png)
+<img src="screenshots\planka16.png">
 
 Dibandingkan dengan Trello, account details yang ada pada Planka cukup minim. 
 
-![home](screenshots\planka17.png)
+<img src="screenshots\planka17.png">
 
 Pada suatu board, page akan menampilkan list-list yang telah dibuat oleh user. Pada suatu list, user dapat menambahkan suatu card. 
 
 
-![home](screenshots\planka18.png)
+<img src="screenshots\planka18.png">
 
 Pada card tersebut, ada beberapa fitur yang dapat digunakan oleh user:
 User dapat memilih untuk mendapatkan notifikasi jika ada aksi yang dilakukan kepada card tersebut
@@ -162,12 +166,12 @@ Ada beberapa fitur yang hanya dimiliki oleh Trello, seperti:
 -Automation: user dapat membuat card tersebut untuk mengeluarkan suatu output/melakukan suatu aksi dengan input atau ketentuan tertentu. 
 -Power-ups: user dapat menambahkan suatu power-up kepada suatu card untuk menambahkan suatu fungsionalitas tertentu yang tidak ada pada Trello
 
-![home](screenshots\planka19.png)
+<img src="screenshots\planka19.png">
 
 Pada suatu board di Planka, page akan menampilkan list-list yang telah dibuat oleh user. Pada suatu list, user dapat menambahkan suatu card. Namun, dibandingkan dengan Trello, ada beberapa fungsionalitas yang tidak terdapat pada Planka, seperti Automation, Filtering, Power-ups, dan Share. Dapat dilihat bahwa tampilan kanban board yang ada pada Trello dan Planka hampir sama. 
 
 
-![home](screenshots\planka20.png)
+<img src="screenshots\planka20.png">
 Pada tampilan card di Planka, ada beberapa fitur yang dapat digunakan oleh user:
 - User dapat memilih untuk mendapatkan notifikasi jika ada aksi yang dilakukan kepada card tersebut
 - User dapat menambahkan deskripsi pada card tersebut
