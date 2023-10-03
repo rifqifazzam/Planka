@@ -10,6 +10,9 @@
 
 **Planka** adalah aplikasi manajemen proyek dan kolaborasi tim berbasis Open Source yang serupa dengan Trello. Planka menyediakan platform dimana tim dapat mengatur dan mengelola tugas atau proyek mereka pada visual board, seperti metodologi Kanban. Pengguna dapat membuat card yang mewakili tugas, memindahkannya melalui kolom atau tahap berbeda untuk melacak progress, dan berkolaborasi dengan anggota tim dalam berbagai proyek.
 
+Login ke akun guest:
+Username: guest 
+Password : guest12345678910
 
 # Instalasi
 [`^ kembali ke atas ^`](#)
